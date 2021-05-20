@@ -1,0 +1,4 @@
+1. Polymorphism
+2. Abstraction
+3. Encapsulation
+4. Inheritance
